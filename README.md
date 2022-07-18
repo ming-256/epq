@@ -1,2 +1,2 @@
-# personal
-Stuff I do in my own time
+# EPQ
+My EPQ project.

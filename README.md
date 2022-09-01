@@ -1,2 +1,2 @@
 # EPQ
-My EPQ project.
+My year 12 EPQ project.
